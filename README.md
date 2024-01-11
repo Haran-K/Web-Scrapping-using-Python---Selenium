@@ -1,6 +1,5 @@
-# Web Scraping with Python Selenium: Tutorial for Beginners
+# Web Scraping with Python Selenium
 
-[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
 
 [<img src="https://img.shields.io/static/v1?label=&message=python&color=brightgreen" />](https://github.com/topics/python) [<img src="https://img.shields.io/static/v1?label=&message=selenium&color=blue" />](https://github.com/topics/selenium) [<img src="https://img.shields.io/static/v1?label=&message=Web%20Scraping&color=important" />](https://github.com/topics/web-scraping)
@@ -10,7 +9,7 @@
 
 In this article, we’ll cover an overview of web scraping with Selenium using a real-life example.
 
-For a detailed tutorial on Selenium, see [our blog](https://oxylabs.io/blog/selenium-web-scraping).
+
 
 ## Installing Selenium
 
@@ -102,4 +101,4 @@ Lastly, return the `data` dictionary from this function.
 
 For the complete code, see [main.py](src/main.py).
 
-For a detailed tutorial on Selenium, see [our blog](https://oxylabs.io/blog/selenium-web-scraping).
+
